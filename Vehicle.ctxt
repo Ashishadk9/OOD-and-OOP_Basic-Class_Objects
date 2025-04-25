@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Vehicle
+comment1.params=LicensePlate\ VehicleType\ EntryTime
+comment1.target=Vehicle(java.lang.String,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=void\ park()
+comment3.params=ExitTime
+comment3.target=void\ exit(int)
+comment4.params=ExitTime
+comment4.target=int\ CalculateFee(int)
+comment5.params=
+comment5.target=void\ getDetails()
+numComments=6
